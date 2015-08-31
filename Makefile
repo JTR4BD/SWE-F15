@@ -87,4 +87,7 @@ jlhthd.o: sentences/jlhthd.c
 
 essxpd.o: sentences/essxpd.c
 	$(CC) -c $<
+	
+jtr4bd.o: sentences/jtr4bd.c
+	$(CC) -c $<
 
