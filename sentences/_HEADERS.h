@@ -25,3 +25,6 @@ int jlhthdSentence2();
 
 int essxpdSentence1();
 int essxpdSentence2();
+
+int jtr4bdSentence1();
+int jtr4bdSentence2();
